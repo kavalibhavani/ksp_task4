@@ -1,0 +1,45 @@
+body{
+    background-color:pink;
+}
+
+label{
+    width:200px; 
+    display:inline-block;
+    text-align:center;
+}
+input{
+   width:200px;
+    display:inline-block;
+    text-align:center; 
+}
+label textarea{
+    vertical-align:bottom;
+}
+
+p{
+border:10px solid aqua;
+padding:10px 20px 10px 20;
+margin:30px;
+font-family:cursive;
+background-color: chartreuse;
+font-size:medium;
+}
+h1{
+   color:rgb(0, 115, 255);
+   font-family:Franklin Gothic;
+}
+h2{
+color:#eb3496;
+font-style:inherit ;
+}
+
+h3{
+    color:hsl(0, 84%, 51%);
+}
+
+  input[type=submit] {
+    background-color: #041aaa;
+    color: white;
+    padding: 12px 20px;
+    border-radius:4px;
+  }
